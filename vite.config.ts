@@ -13,6 +13,7 @@ export default defineConfig({
   resolve: {
     alias: {
       "@assets": "/src/assets",
+      "@contexts": "/src/contexts",
       "@features": "/src/features",
       "@styles": "/src/styles",
       "@utils": "/src/utils",
