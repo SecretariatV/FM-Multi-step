@@ -24,6 +24,7 @@
     "baseUrl": "src",
     "paths": {
       "@assets/*": ["assets/*"],
+      "@contexts/*": ["contexts/*"],
       "@features/*": ["features/*"],
       "@styles/*": ["styles/*"],
       "@utils/*": ["utils/*"]
